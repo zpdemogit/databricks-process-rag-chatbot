@@ -77,3 +77,11 @@ query:
     ]
   }
 }
+
+
+
+
+for chatbot UI
+create left side
+new app > from template gradio hello world
+run 2 commands for export , make change in app.py and then sync and again deploy app and run that url
